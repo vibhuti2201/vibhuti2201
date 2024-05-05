@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vibhuti Kapoor</h1>
 <h3 align="center">I am an Android Developer with an avid interest in Data Structures, Algorithms and Optimization. As a core programmer, I love taking challenges and love being part of the solution.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhuti2201&label=Profile%20views&color=0e75b6&style=flat" alt="vibhuti2201" /> </p>
-
 - 🌱 I’m currently learning **Android development.**
 
 - 🤝 I’m looking for help with **I'm in search of real-world opportunities, where I can apply my skills, while also acquiring new ones.**
